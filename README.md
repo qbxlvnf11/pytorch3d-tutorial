@@ -2,6 +2,13 @@
 Contents
 =============
 
+Pytorch3D Install
+=============
+
+```
+pip install "git+https://github.com/facebookresearch/pytorch3d.git"
+```
+
   
 Datasets
 =============
