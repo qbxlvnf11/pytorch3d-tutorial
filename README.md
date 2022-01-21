@@ -2,7 +2,7 @@
 Contents
 =============
 
-#### - Load mesh data with object format
+#### - Load mesh data (object format)
 
 Pytorch3D Install
 =============
