@@ -8,7 +8,8 @@ https://blog.naver.com/qbxlvnf11/222627573164
 Contents
 =============
 
-#### - Load mesh data (object format)
+#### - Load mesh data (object format): load_mesh_obj.py
+#### - Pytorch3D Meshes class: Pytorch3D_Meshes.py
 
 Pytorch3D Install
 =============
