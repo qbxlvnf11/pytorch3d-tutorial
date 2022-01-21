@@ -16,5 +16,5 @@ args = parse_args()
 verts, faces, properties = load_obj(args.obj_path)
 print('verts:', verts) # v
 print('faces:', faces) # f
-print('normals:', properties.normals) # vn
-print('texture:', properties.verts_uvs) # vt
+print('verts normals:', properties.normals) # vn
+print('verts texture:', properties.verts_uvs) # vt
