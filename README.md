@@ -33,6 +33,10 @@ References
 
 https://github.com/facebookresearch/pytorch3d
 
+#### - Meshes class of Pytorch3D
+
+https://pytorch3d.readthedocs.io/en/latest/_modules/pytorch3d/structures/meshes.html
+
 
 Author
 =============
