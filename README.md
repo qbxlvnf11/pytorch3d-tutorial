@@ -1,4 +1,10 @@
 
+Description
+=============
+
+#### - Mesh data (object format)
+https://blog.naver.com/qbxlvnf11/222627573164
+
 Contents
 =============
 
@@ -23,7 +29,7 @@ https://rll.berkeley.edu/bigbird/access.html
 References
 =============
 
-#### - Pytorch3D Github Page
+#### - Pytorch3D github page
 
 https://github.com/facebookresearch/pytorch3d
 
