@@ -13,8 +13,8 @@ def parse_args():
 args = parse_args()
 
 # Load mesh data with object format
-verts, faces, properties = load_obj(args.obj_path)
+verts, faces, aux = load_obj(args.obj_path)
 print('verts:', verts) # v
 print('faces:', faces) # f
-print('verts normals:', properties.normals) # vn
-print('verts texture:', properties.verts_uvs) # vt
+print('verts normals:', aux.normals) # vn
+print('verts texture:', aux.verts_uvs) # vt
