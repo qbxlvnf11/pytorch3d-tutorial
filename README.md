@@ -10,6 +10,7 @@ Contents
 
 #### - Load mesh data (object format): load_mesh_obj.py
 #### - Pytorch3D Meshes class: Pytorch3D_Meshes.py
+#### - Pytorch3D sampling (mesh to points cloud): Pytorch3D_sampling_points.py
 
 Pytorch3D Install
 =============
@@ -26,6 +27,9 @@ Datasets
 
 https://rll.berkeley.edu/bigbird/access.html
 
+#### - shrect
+
+https://www.dropbox.com/s/w16st84r6wc57u7/shrec_16.tar.gz
 
 References
 =============
