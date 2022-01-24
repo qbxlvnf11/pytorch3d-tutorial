@@ -2,6 +2,8 @@
 Description
 =============
 
+#### - Pytorch3D
+
 #### - Mesh data (object format)
 https://blog.naver.com/qbxlvnf11/222627573164
 
@@ -27,7 +29,7 @@ Datasets
 
 https://rll.berkeley.edu/bigbird/access.html
 
-#### - shrect
+#### - shrec_16
 
 https://www.dropbox.com/s/w16st84r6wc57u7/shrec_16.tar.gz
 
