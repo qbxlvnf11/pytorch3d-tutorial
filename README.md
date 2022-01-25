@@ -2,7 +2,7 @@
 Description
 =============
 
-#### - Pytorch3D
+#### - Pytorch3D: Pytorch Library of 3D Computer Vision
 
 #### - Mesh data (object format)
 https://blog.naver.com/qbxlvnf11/222627573164
