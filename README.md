@@ -12,7 +12,7 @@ Contents
 
 #### - Load mesh data (object format): load_mesh_obj.py
 #### - Pytorch3D Meshes class: Pytorch3D_Meshes.py
-#### - Pytorch3D sampling (mesh to points cloud): Pytorch3D_sampling_points.py
+#### - Pytorch3D sampling (mesh to points cloud): Pytorch3D_sampling_points.ipynb
 
 Pytorch3D Install
 =============
