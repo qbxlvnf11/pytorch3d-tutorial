@@ -10,9 +10,10 @@ https://blog.naver.com/qbxlvnf11/222627573164
 Contents
 =============
 
-#### - Load mesh data (object format): load_mesh_obj.py
-#### - Pytorch3D Meshes class: Pytorch3D_Meshes.py
-#### - Pytorch3D sampling (mesh to points cloud): Pytorch3D_sampling_points.ipynb
+#### - Load mesh data (object format): [load_mesh_obj.py](https://github.com/qbxlvnf11/pytorch3d-tutorial/blob/main/code/Pytorch3D_Meshes.py)
+#### - Pytorch3D Meshes class: [Pytorch3D_Meshes.py](https://github.com/qbxlvnf11/pytorch3d-tutorial/blob/main/code/Pytorch3D_Meshes.py)
+#### - Pytorch3D managing textures: [Pytorch3D_Meshes_with_textures.ipynb](https://github.com/qbxlvnf11/pytorch3d-tutorial/blob/main/code/Pytorch3D_Meshes_with_textures.ipynb)
+#### - Pytorch3D sampling (mesh to points cloud): [Pytorch3D_sampling_points.ipynb](https://github.com/qbxlvnf11/pytorch3d-tutorial/blob/main/code/Pytorch3D_sampling_points.ipynb)
 
 Pytorch3D Install
 =============
